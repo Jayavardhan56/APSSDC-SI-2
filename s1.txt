@@ -3,3 +3,5 @@ OK lets do the merge
 
 
 This is a test command for collabration on github
+
+This is a change commit from the local machine
