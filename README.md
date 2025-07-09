@@ -1,10 +1,15 @@
 🚀 Internship2 – APSSDC GitHub Internship Repository
+
 This is a test repository created as part of the APSSDC Internship-2 to practice and demonstrate Git and GitHub fundamentals.
 
 🔧 Git Commands Practiced:
+
 git init – Initialize a new Git repository
+
 git add . – Stage all changes for the next commit
+
 git commit – Commit staged changes with a message
+
 git status – Check the current status of the working directory
 
 🌟 What I Learned:
