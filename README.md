@@ -2,6 +2,8 @@
 
 This is a test repository created as part of the APSSDC Internship-2 to practice and demonstrate Git and GitHub fundamentals.
 
+Git is a automation software which interlinks our local machine with github and helps in continuous improvment and continuos delivery.
+
 🔧 Git Commands Practiced:
 
 git init – Initialize a new Git repository
