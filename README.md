@@ -24,3 +24,5 @@ How to invite collaborators and manage team contributions
 Gained hands-on experience with GitHub’s collaboration features, repository settings, and contribution workflow
 
 Achieved several GitHub contribution milestones and achievements during the internship
+
+Also experimented continuos integration and delivery CI/CD using Jenkins
