@@ -26,3 +26,5 @@ Gained hands-on experience with GitHub’s collaboration features, repository se
 Achieved several GitHub contribution milestones and achievements during the internship
 
 Also experimented continuos integration and delivery CI/CD using Jenkins
+
+Future Scope: Docker
