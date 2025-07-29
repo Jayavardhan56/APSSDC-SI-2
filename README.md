@@ -28,3 +28,5 @@ Achieved several GitHub contribution milestones and achievements during the inte
 Also experimented continuos integration and delivery CI/CD using Jenkins
 
 Future Scope: Docker, Kuberenetes
+
+This can be a beginners guide to learn the Git using Github.
